@@ -2,7 +2,6 @@
 
 A classic Simon game implementation developed by Rajkumar A (@rajkumaralagappan2).
 
-![Simon Game Demo](link-to-demo-gif-or-image)
 
 ## Table of Contents
 
