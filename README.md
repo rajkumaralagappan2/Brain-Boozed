@@ -30,7 +30,7 @@ This project is an implementation of the Simon game using HTML, CSS, and JavaScr
 
 ## Demo
 
-You can try the game live at https://www.rajkumaralagappan2.github.io/Brain-Boozed
+You can try the game live at https://rajkumaralagappan2.github.io/Brain-Boozed
 
 ## Technologies Used
 
