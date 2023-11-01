@@ -65,10 +65,14 @@ $(".btn").click(function(event){
   checkAnswers(userClickedPattern.length-1);
 })
 
-$(document).keydown(function(){
+function gameStart(){
   if(!started){
     $("#level-title").text("Level " + level);
     nextSequence();
     started=true;
 }
-})
+}  
+$(document).keydown(gameStart);
+
+$(".startbtn").click(gameStart);
+  
