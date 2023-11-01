@@ -64,11 +64,11 @@ To run the game locally, follow these steps:
 
 ## Game Rules
 
-You must follow the correct order of colors in the sequence.
+-You must follow the correct order of colors in the sequence.
 
-If you make a mistake, the game will provide feedback, and you can try again.
+-If you make a mistake, the game will provide feedback, and you can try again.
 
-The game becomes more challenging as you progress, adding one color to the sequence in each round.
+-The game becomes more challenging as you progress, adding one color to the sequence in each round.
 
 
 Have fun playing the Simon game and see how high of a score you can achieve! If you have any questions, feedback, or suggestions, feel free to reach out to Rajkumar A at rajkumaralagappan2@gmail.com.
