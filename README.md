@@ -6,7 +6,7 @@ This project is hosted on github page to showcase my skill.
 
 To Try This game, kindly visit : 
 
-rajkumaralagappan2.github.io/Brain-Boozed
+https://www.rajkumaralagappan2.github.io/Brain-Boozed
 
 Feel Free to contact me incase of any issues you face or further improvements in code.
 
